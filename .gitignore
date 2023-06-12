@@ -1,3 +1,4 @@
 *.txt
 *.zim
+*.sql
 !requirements.txt
